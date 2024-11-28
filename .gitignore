@@ -4,3 +4,6 @@
 # Ignore Jupyter notebook output files
 *.out
 *.log
+
+# Ignore warehouse
+/spark-warehouse/
