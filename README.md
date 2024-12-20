@@ -1,4 +1,4 @@
-# Climate Change Sentiment Analysis Using Reddit
+# Reddit Climate Change Sentiment Analysis
 **Course:** SENG 550: Scalable Data Analytics
 
 ## Objective
