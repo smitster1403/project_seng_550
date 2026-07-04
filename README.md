@@ -1,7 +1,7 @@
 # Reddit Climate Change Sentiment Analysis
 **Course:** SENG 550: Scalable Data Analytics
 
-Demo found on youtube founder [here](https://youtu.be/pT8IknhH9DM?si=SAtD_orj6nQ91Mn7)
+Demo found on youtube founde [here](https://youtu.be/pT8IknhH9DM?si=SAtD_orj6nQ91Mn7)
 
 ## Objective
 The goal of this project is to analyze how people's sentiments on climate change have changed over time. This project aims to identify the ongoing trend of climate change sentiment, as well as recognize important topics that spark engagement. 
